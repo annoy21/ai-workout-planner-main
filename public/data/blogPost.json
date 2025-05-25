@@ -1,0 +1,19 @@
+[
+    {
+      "id": "1",
+      "title": "5 Essential Exercises for Beginners",
+      "date": "2025-05-15",
+      "excerpt": "Start your fitness journey with these fundamental exercises",
+      "content": "# 5 Essential Exercises for Beginners\n\nStarting your fitness journey can be overwhelming...\n\n## 1. Bodyweight Squats\n\n```javascript\n// Example of tracking squats\nfunction trackSquats(reps) {\n  console.log(`You've completed ${reps} squats!`);\n}\n```\n\n## 2. Push-ups\n\n...",
+      "image": "/images/Screenshot_2025-05-18_4-59-34_PM.png"
+
+    },
+    {
+      "id": "2",
+      "title": "Nutrition for Muscle Growth",
+      "date": "2025-05-10",
+      "excerpt": "Learn what to eat to maximize your gains",
+      "content": "# Nutrition for Muscle Growth\n\nProper nutrition is just as important as your workout...",
+      "image": "/images/blog2.jpg"
+    }
+  ]
